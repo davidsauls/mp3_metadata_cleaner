@@ -1,0 +1,4 @@
+how to run.txt
+
+pip install mutagen requests pillow
+python main.py
